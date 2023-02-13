@@ -48,3 +48,5 @@
 # 7-2.  git checkout master             --- 
 
 # If you encounter this condition "Everything up-to-date", delete the branch, and do it again.
+
+# Ok~ hope you can get what you want in this video~~thx
