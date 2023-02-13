@@ -59,3 +59,8 @@
 
 # In the last tutorial video, we've known the branch commands:
 # git branch branch_2 ; git init ; git add . ; git commit -m "123" ; git push origin branch_2
+
+# In the third video, we'll focus on the command -- merge:
+# 1.    git merge branch_2              --- 
+
+# Let's try the new branch_2 first, and check what will happen later.
