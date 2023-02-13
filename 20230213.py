@@ -27,14 +27,15 @@
 # The key is that "master" means the main file of our project.
 # But if we want to develop other functions of our project, we should start other "branches".
 
-# 1.    git status                      --- it indicates the change/status about your current folder files 
-# 2.    git log                         --- as you see, in our project, we push five times and this command will indicate the update time and commit messages
-# 3.    git branch                      --- because we have not built branches in our project, it just indicate the "master"
+# 1.    git status                      --- check the status in the Git repository
+# 2.    git log                         --- check the log in the Git repository
+# 3.    git branch                      --- check the branch in the Git repository
 # 4.    git branch branch_1             --- new a branch from the master
 # 5.    git push origin branch_1        --- push to the specific branch
 # 6.    git branch -D branch_1          --- delete the specific branch
 
-# But you can see it's not up-to-date, how could we update?
+# To push all files to the branch of the project, the whole commands are :
+# git branch branch_1 ; git init ; git add . ; git commit -m "123" ; git push origin branch_1
 # And the last but not the least, how could we rapidly switch to master?
 
 # 6-1.  git checkout branch_1           --- 
