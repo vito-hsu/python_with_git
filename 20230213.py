@@ -62,7 +62,7 @@
 # If you encounter this condition "Everything up-to-date", delete the branch, and do it again.
 
 # In the third video, we'll focus on the two commands:
-# 1.    git merge branch_2              --- 
+# 1.    git merge branch_2              --- if you want to merge, you might need to checkout the old file first, and give the merge command, and then re-push it to the branch
 #       1)  git checkout branch_1
 #       2)  git checkout branch_2
-# 2.    git rebase branch_2             ---
+# 2.    git rebase branch_3             --- in the same way, we could try rebase command
