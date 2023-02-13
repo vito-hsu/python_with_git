@@ -14,13 +14,13 @@
 # You can see the 3-4 command doesn't need to run if you just rerun again.
 
 
-
+#######################################################################################
 
 
 # Review.
 # In the last tutorial video, we've known the following commands could automatically push all our new files in this folder to the correspoding Git repository.
 # git init ; git add . ; git commit -m "123" ; git remote add origin https://github.com/vito-hsu/python_with_git.git ; git push origin master
-# Let's try again.
+# Let's try again. Check the github content first.
 
 # In the second video, I'll introduce the other common commands in Git.
 # Before the pratice, we should know the purpose of branch in Git.
@@ -38,6 +38,7 @@
 # git branch branch_1 ; git init ; git add . ; git commit -m "123" ; git push origin branch_1
 # And the last but not the least, how could we rapidly switch to master?
 
-# 6-1.  git checkout branch_1           --- 
-# 6-2.  git checkout master             --- 
+# 7-1.  git checkout branch_1           --- 
+# 7-2.  git checkout master             --- 
 
+#
