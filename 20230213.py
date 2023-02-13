@@ -13,7 +13,7 @@
 # Let's try it again.
 # You can see the 3-4 command doesn't need to run if you just rerun again.
 
-
+#
 #######################################################################################
 
 
@@ -63,4 +63,6 @@
 
 # In the third video, we'll focus on the two commands:
 # 1.    git merge branch_2              --- 
+#       1)  git checkout branch_1
+#       2)  git checkout branch_2
 # 2.    git rebase branch_2             ---
