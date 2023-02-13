@@ -39,6 +39,8 @@
 
 # To push all files to the branch of the project, the whole commands are :
 # git branch branch_1 ; git init ; git add . ; git commit -m "123" ; git push origin branch_1
+# If you encounter this condition, do the following thing~~  and we try again
+ 
 # And the last but not the least, how could we rapidly switch to master?
 
 # 7-1.  git checkout branch_1           --- 
