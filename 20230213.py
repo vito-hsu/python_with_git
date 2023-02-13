@@ -61,11 +61,6 @@
 # git branch branch_2 ; git init ; git add . ; git commit -m "123" ; git push origin branch_2
 # If you encounter this condition "Everything up-to-date", delete the branch, and do it again.
 
-# In the third video, we'll focus on the command -- merge:
+# In the third video, we'll focus on the two commands:
 # 1.    git merge branch_2              --- 
-
-# Let's try the new branch_2 first, and check what will happen later.
-# Before we test what will happen later, we want to check the master first.
-# git init ; git add . ; git commit -m "123" ; git push origin master
-
-# ok~ let's update branch_2 again, and merge it to master.
+# 2.    git rebase branch_2             ---
