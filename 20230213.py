@@ -59,6 +59,7 @@
 
 # In the last tutorial video, we've known the branch commands:
 # git branch branch_2 ; git init ; git add . ; git commit -m "123" ; git push origin branch_2
+# If you encounter this condition "Everything up-to-date", delete the branch, and do it again.
 
 # In the third video, we'll focus on the command -- merge:
 # 1.    git merge branch_2              --- 
