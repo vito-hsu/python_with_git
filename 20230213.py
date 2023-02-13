@@ -47,4 +47,5 @@
 # 7-1.  git checkout branch_1           --- 
 # 7-2.  git checkout master             --- 
 
-# 
+# So, you could find that if we update this .py file, we can't update branch first
+# We should update the master one first.
