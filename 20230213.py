@@ -42,8 +42,9 @@
 # If you encounter this condition, do the following thing~~  and we try again
  
 # And the last but not the least, how could we rapidly switch to master?
+# Before do this, I suggest you update the master first.
 
 # 7-1.  git checkout branch_1           --- 
 # 7-2.  git checkout master             --- 
 
-#
+# 
