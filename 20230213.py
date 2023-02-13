@@ -20,8 +20,8 @@
 
 # In the second video about Git tutorial, I'll introduce the other common commands in Git.
 # Before the pratice, we should know the purpose of branch in Git.
-# The key is that master means the main file of our project.
-# But if we want to develop other functions of our project, we should start other branches.
+# The key is that "master" means the main file of our project.
+# But if we want to develop other functions of our project, we should start other "branches".
 
 # 1.    git status                      --- it indicates the change/status about your current folder files 
 # 2.    git log                         --- as you see, in our project, we push five times and this command will indicate the update time and commit messages
