@@ -9,3 +9,5 @@
 #   3-4. git remote add origin https://github.com/vito-hsu/python_with_git.git
 #   3-5. git push origin master
 # Let's try it
+# I just run the above commands again, and you can see the .py file has changed like this.
+# Let's try it again.
