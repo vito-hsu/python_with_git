@@ -18,18 +18,19 @@
 
 
 
-# In the second video about Git tutorial, I'll introduce the other common commands.
+# In the second video about Git tutorial, I'll introduce the other common commands in Git.
 # Before the pratice, we should know the purpose of branch in Git.
 # The key is that master means the main file of our project.
 # But if we want to develop other functions of our project, we should start other branches.
+
 # 1.    git status                      --- it indicates the change/status about your current folder files 
-# 2.    git log                         --- as you see, in our project, we push three times and this command will indicate the update time
-#                                           and commit messages
+# 2.    git log                         --- as you see, in our project, we push five times and this command will indicate the update time and commit messages
 # 3.    git branch                      --- because we have not built branches in our project, it just indicate the "master"
 # 4.    git branch branch_1             --- new a branch from the master
-# 5.    git push origin branch_1        --- 
-# 6.    git branch -D branch_1          --- 
+# 5.    git push origin branch_1        --- push to the specific branch
+# 6.    git branch -D branch_1          --- delete the specific branch
 
+# But you can see it's not up-to-date, how could we update?
 
 # 6-1.  git checkout branch_1           --- 
 # 6-2.  git checkout master             --- 
