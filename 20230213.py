@@ -49,3 +49,5 @@
 
 # So, you could find that if we update this .py file, we can't update branch first
 # We should update the master one first.
+
+# If you encounter this condition "Everything up-to-date", delete the branch, and do it again.
