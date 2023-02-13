@@ -31,6 +31,7 @@
 # 6.    git branch -D branch_1          --- delete the specific branch
 
 # But you can see it's not up-to-date, how could we update?
+# And the last but not the least, how could we rapidly switch to master?
 
 # 6-1.  git checkout branch_1           --- 
 # 6-2.  git checkout master             --- 
