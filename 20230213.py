@@ -17,8 +17,12 @@
 
 
 
+# Review.
+# In the last tutorial video, we've known the following commands could automatically push all our new files in this folder to the correspoding Git repository.
+# git init ; git add . ; git commit -m "123" ; git remote add origin https://github.com/vito-hsu/python_with_git.git ; git push origin master
+# Let's try again.
 
-# In the second video about Git tutorial, I'll introduce the other common commands in Git.
+# In the second video, I'll introduce the other common commands in Git.
 # Before the pratice, we should know the purpose of branch in Git.
 # The key is that "master" means the main file of our project.
 # But if we want to develop other functions of our project, we should start other "branches".
@@ -36,5 +40,3 @@
 # 6-1.  git checkout branch_1           --- 
 # 6-2.  git checkout master             --- 
 
-
-git init ; git add . ; git commit -m "123"
