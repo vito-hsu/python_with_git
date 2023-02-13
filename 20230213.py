@@ -26,7 +26,7 @@
 # 2.    git log                         --- as you see, in our project, we push three times and this command will indicate the update time
 #                                           and commit messages
 # 3.    git branch                      --- because we have not built branches in our project, it just indicate the "master"
-# 4.    git branch branch_1             --- if you want to add new branch from the master
+# 4.    git branch branch_1             --- new a branch from the master
 # 5.    git push origin branch_1        --- 
 # 6.    git branch -D branch_1          --- 
 
