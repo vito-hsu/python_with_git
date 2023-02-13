@@ -67,3 +67,5 @@
 # Let's try the new branch_2 first, and check what will happen later.
 # Before we test what will happen later, we want to check the master first.
 # git init ; git add . ; git commit -m "123" ; git push origin master
+
+# ok~ let's update branch_2 again, and merge it to master.
