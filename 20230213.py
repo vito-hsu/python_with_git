@@ -26,6 +26,8 @@
 # Before the pratice, we should know the purpose of branch in Git.
 # The key is that "master" means the main file of our project.
 # But if we want to develop other functions of our project, we should start other "branches".
+# Because I just built the new branch called branch_1, now I will delete the branch first.
+
 
 # 1.    git status                      --- check the status in the Git repository
 # 2.    git log                         --- check the log in the Git repository
@@ -33,6 +35,7 @@
 # 4.    git branch branch_1             --- new a branch from the master
 # 5.    git push origin branch_1        --- push to the specific branch
 # 6.    git branch -D branch_1          --- delete the specific branch
+
 
 # To push all files to the branch of the project, the whole commands are :
 # git branch branch_1 ; git init ; git add . ; git commit -m "123" ; git push origin branch_1
