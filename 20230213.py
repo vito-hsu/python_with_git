@@ -35,3 +35,6 @@
 
 # 6-1.  git checkout branch_1           --- 
 # 6-2.  git checkout master             --- 
+
+
+git init ; git add . ; git commit -m "123"
