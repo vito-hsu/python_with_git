@@ -78,5 +78,5 @@
 # In the fourth video, we'll learn how to get the files from github repository to our local folder in two ways:
 # 1. git pull origin master
 # 2. git clone [url]
-# Before today's practice, I suggest you should create two new folders like these.
+# Before today's practice, I suggest you should create two new folders outside this folder like these.
 # And let's review the push command first.
